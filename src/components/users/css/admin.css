@@ -1,0 +1,41 @@
+.tlmargins {
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+
+.tlrmargins {
+    margin-top: 2vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.align-left {
+    float: 'left';
+    width: auto;
+}
+
+.flex-sb {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-sa {
+    display: flex;
+    justify-content: space-around;
+}
+
+.form-a {
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    background-color: rgba(96, 205, 255, 0.4);;
+    border-width: 3px;
+}
+
+.form-b {
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    background-color: rgba(255, 181, 54, 0.5);;
+    border-width: 3px;
+}
